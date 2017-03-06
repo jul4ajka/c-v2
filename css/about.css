@@ -1,0 +1,97 @@
+body {
+    margin: 0px auto;
+    max-width: 100%;
+    background-image: url("../images/mac-workspace.jpg");
+    background-size: cover;
+}
+
+header {
+    position: relative;
+    height: 620px;
+    width: 280px;
+    background-color: white;
+    margin-left: 80px;
+    margin-top: 31.44px; 
+    float: left;
+}
+
+#logo {
+    width: 240px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+}
+
+nav {
+    position: absolute;
+    margin-top: 325px;
+    margin-left: 0px;
+}
+
+.navigation {
+    width: 240px;
+    height: 40px;
+    margin: 5px;
+    margin-left: -20px;
+    background-color: #f2cd9b;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 0px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #6b7077;
+}
+
+ul li a:hover {
+    color: #383a3d;
+}
+
+.social {
+    padding-top: 530px;
+    padding-left: 40px;
+}
+
+.social img {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+#creator {
+    font-family: 'Lato', sans-serif;
+    color: #383a3d;
+    padding-left: 70px;
+}
+
+#experiance {
+    margin-left: 350px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-left: 20px;
+    background-color: white;
+    opacity:0.7;
+}  
+  
+.experiance-columns {
+    columns: 200px 3;
+    height: 700px;
+}  
+  
+h1 {
+    font-family: 'Lato', sans-serif; 
+    color: #383a3d;
+}
+   
+p {
+    font-family: 'Lato', sans-serif; 
+    color: #383a3d;
+    margin-left: 50px;
+   }
