@@ -81,6 +81,7 @@ ul li a:hover {
 #slid {
    font-family: 'Lato', sans-serif;
    margin-left: 400px;
+   
 }
 
 h3 a {
@@ -90,4 +91,17 @@ h3 a {
 
 h3 a:hover {
     color: #7799ce;
+}
+
+button {
+    background-color: #7799ce;
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    margin-bottom: 100px;
+    
 }
