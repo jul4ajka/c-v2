@@ -1,0 +1,130 @@
+body {
+    margin: 0px auto;
+    max-width: 100%;
+    background-image: url("../images/mac-workspace.jpg");
+    background-size: cover;
+}
+
+header {
+    float: left;
+    height: 620px;
+    width: 280px;
+    background-color: white;
+    margin-left: 10%;
+    margin-top: 10px; 
+    max-width: 100%;
+}
+
+
+#julia-chayka {
+    float: left;
+    max-width: 100%;
+    font-family: 'Lato', sans-serif; 
+    color: #383a3d;
+    margin-top: 0px;
+    margin-left: 50px;
+} 
+
+#julia-chayka p {
+    font-size: 24px;
+}
+
+.columns {
+    float: left;
+    background-color: white;
+    opacity: 0.7;
+    width: 90%;
+    color: #202123;
+}
+
+table {
+    display: none;
+}
+
+#right-table {
+   border: 0px;
+   padding-left: 0px;
+   margin-left: 5%;
+   margin-right: 5%;
+}
+
+.web-developer {
+    font-family: 'Lato', sans-serif;
+    width: 90%;
+    margin-left: 10px;
+}
+
+#ps-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+#p-photoshop {
+   display: inline-block;
+   margin-right: 10px;
+}
+
+#photoshop {
+    width: 35%;
+    height: 20px;
+    background-color: #575a5e;
+    display: inline-block;
+}
+
+#html-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+#p-html {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+#html {
+    width: 50%;
+    height: 20px;
+    background-color: #575a5e; 
+    display: inline-block;
+}
+
+#css-icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+#p-css {
+    display: inline-block;
+    margin-right: 45px;
+}
+
+#css {
+    width: 40%;
+    height: 20px;
+    background-color: #575a5e; 
+    display: inline-block;
+}
+
+#js-icon {
+    display: inline-block;
+    width: 23px;
+    height: 30px;
+    margin-right: 7px;
+}
+
+#p-javascript {
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#javascript {
+    width: 35%;
+    height: 20px;
+    background-color: #575a5e;
+    display: inline-block;
+}
+
+

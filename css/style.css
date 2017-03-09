@@ -108,8 +108,7 @@ table, tr, td  {
     font-family: 'Lato', sans-serif;
     color: #383a3d;
     margin-top: 30px;
-    
- }
+}
 
 td {
     text-align: center;
@@ -142,8 +141,8 @@ td:nth-child(odd) {
 
 #ps-icon {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
 
 #p-photoshop {
@@ -160,8 +159,8 @@ td:nth-child(odd) {
 
 #html-icon {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
 
 #p-html {
@@ -178,8 +177,8 @@ td:nth-child(odd) {
 
 #css-icon {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
 }
 
 #p-css {
@@ -196,8 +195,9 @@ td:nth-child(odd) {
 
 #js-icon {
     display: inline-block;
-    width: 20px;
-    height: 20px;
+    width: 23px;
+    height: 30px;
+    margin-right: 7px;
 }
 
 #p-javascript {
@@ -212,104 +212,3 @@ td:nth-child(odd) {
     display: inline-block;
 }
 
-@media (max-width: 845px) {
-    .columns {
-    position: inherit;
-    column-gap: 10px;
-    background-color: white;
-    opacity: 0.7;
-    width: 920px;
-    margin-left: 400px;
-    color: #202123;
-}
-  
- #left-table {
-    position: inherit;
-}
-
-#right-table {
-    position: inherit;
-    border: 0px;
-} 
- 
- .web-developer {
-    font-family: 'Lato', sans-serif;
-    height:370px;
-    width: 300px;
-    margin-left: 500px;
-    position: inherit;
-}
-
-#ps-icon {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-}
-
-#p-photoshop {
-   display: inline-block;
-   margin-right: 10px;
-}
-
-#photoshop {
-    width: 1500px;
-    height: 20px;
-    background-color: #575a5e;
-    display: inline-block;
-}
-
-#html-icon {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-}
-
-#p-html {
-    display: inline-block;
-    margin-right: 30px;
-}
-
-#html {
-    width: 250px;
-    height: 20px;
-    background-color: #575a5e; 
-    display: inline-block;
-}
-
-#css-icon {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-}
-
-#p-css {
-    display: inline-block;
-    margin-right: 45px;
-}
-
-#css {
-    width: 200px;
-    height: 20px;
-    background-color: #575a5e; 
-    display: inline-block;
-}
-
-#js-icon {
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-}
-
-#p-javascript {
-    display: inline-block;
-    margin-right: 5px;
-}
-
-#javascript {
-    width: 150px;
-    height: 20px;
-    background-color: #575a5e;
-    display: inline-block;
-}
-    
-}

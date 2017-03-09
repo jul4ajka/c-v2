@@ -11,8 +11,8 @@ header {
     width: 280px;
     background-color: white;
     margin-left: 80px;
-    margin-top: 31.44px; 
-    float: left;
+    margin-top: 10px; 
+    max-width: 30%;
 }
 
 #logo {
@@ -71,36 +71,39 @@ ul li a:hover {
     padding-left: 70px;
 }
 
-#portfolio {
+#julia-chayka {
+    margin-left: 50%;
+    font-family: 'Lato', sans-serif; 
+    color: #383a3d;
+    margin-top: 0px;
+} 
+
+#julia-chayka p {
+    font-size: 24px;
+}
+
+.columns {
+    columns: 1;
+    max-width: 55%;
+    background-color: white;
+    opacity: 0.7;
+    color: #202123;
+    font-family: 'Lato', sans-serif; 
+    text-align: justify;
+}
+
+table {
+    display: none;
+}
+
+.web-developer {
     font-family: 'Lato', sans-serif;
-    margin-left: 400px;
-    padding-top: 50px;
-    
+    height:370px;
+    width: 700px;
+    margin-left: 10px;
+    float: left;
 }
 
-#slid {
-   font-family: 'Lato', sans-serif;
-   margin-left: 400px;
-   
-}
-
-h3 a {
-    text-decoration: none;
-    color: black;
-}
-
-h3 a:hover {
-    color: #7799ce;
-}
-
-button {
-    background-color: #7799ce;
-    border: none;
-    color: white;
-    padding: 15px 30px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 18px;
-    margin: 10px;
-    margin-bottom: 100px;
+hr {
+    display: none;
 }
