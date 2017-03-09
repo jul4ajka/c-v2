@@ -10,7 +10,7 @@ header {
     height: 620px;
     width: 280px;
     background-color: white;
-    margin-left: 10%;
+    margin-left: 15%;
     margin-top: 10px; 
     max-width: 100%;
 }
@@ -22,7 +22,7 @@ header {
     font-family: 'Lato', sans-serif; 
     color: #383a3d;
     margin-top: 0px;
-    margin-left: 50px;
+    margin-left: 20%;
 } 
 
 #julia-chayka p {
@@ -51,7 +51,7 @@ table {
 .web-developer {
     font-family: 'Lato', sans-serif;
     width: 90%;
-    margin-left: 10px;
+    margin-left: 10%;
 }
 
 #ps-icon {
