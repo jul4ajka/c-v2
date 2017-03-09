@@ -10,7 +10,7 @@ header {
     height: 620px;
     width: 280px;
     background-color: white;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-right: 5%;
     margin-top: 10px; 
     max-width: 90%;
@@ -23,7 +23,7 @@ header {
     font-family: 'Lato', sans-serif; 
     color: #383a3d;
     margin-top: 0px;
-    margin-left: 5%;
+    margin-left: 15%;
     margin-right: 5%;
 } 
 

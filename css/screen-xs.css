@@ -42,7 +42,8 @@ table {
 }
 
 #right-table {
-    margin-left: 15%;
+    margin-left: 25%;
+    padding-left: 10px;
     border: 0px;
 }
 
@@ -63,7 +64,7 @@ table {
 }
 
 #photoshop {
-    width: 60%;
+    width: 30%;
     height: 20px;
     background-color: #575a5e;
     display: inline-block;
@@ -81,7 +82,7 @@ table {
 }
 
 #html {
-    width: 75%;
+    width: 55%;
     height: 20px;
     background-color: #575a5e; 
     display: inline-block;
@@ -99,7 +100,7 @@ table {
 }
 
 #css {
-    width: 65%;
+    width: 45%;
     height: 20px;
     background-color: #575a5e; 
     display: inline-block;
@@ -118,7 +119,7 @@ table {
 }
 
 #javascript {
-    width: 50%;
+    width: 30%;
     height: 20px;
     background-color: #575a5e;
     display: inline-block;
