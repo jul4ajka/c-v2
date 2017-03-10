@@ -13,6 +13,7 @@ header {
     margin-left: 80px;
     margin-top: 31.44px; 
     float: left;
+    
 }
 
 #logo {
@@ -72,7 +73,22 @@ ul li a:hover {
 }
 
 #contacts {
-    margin-left: 400px;
+    margin-left: 40px;
     padding-top: 50px;
     font-family: 'Lato', sans-serif;
+    max-width: 20%;
+    display: inline-block;
+}
+
+form {
+    max-width: 50%;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+input[type=text] {
+    display: inline-block;
+    padding: 12px 20px;
+    margin: 8px 0;
+    
 }
