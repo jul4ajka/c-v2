@@ -76,19 +76,26 @@ ul li a:hover {
     margin-left: 40px;
     padding-top: 50px;
     font-family: 'Lato', sans-serif;
-    max-width: 20%;
     display: inline-block;
 }
 
 form {
-    max-width: 50%;
     display: inline-block;
     margin-left: 50px;
+    font-family: 'Lato', sans-serif;
 }
 
-input[type=text] {
+fieldset {
+    padding: 15px;
+}
+
+button {
+    background-color: grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
     display: inline-block;
-    padding: 12px 20px;
-    margin: 8px 0;
-    
+    font-size: 16px;
 }
