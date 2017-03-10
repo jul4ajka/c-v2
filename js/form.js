@@ -5,10 +5,10 @@ $(function() {
             url: "https://formspree.io/jul4ajka@gmail.com", 
             method: "POST",
             data: {
-                firstName:   $('#first-name').val(),
-                lastName:    $('#last-name').val(),
-                visitorMail: $('#visitor-email').val(),
-                comment:     $('#comment').val()
+                firstName:    $('#first-name').val(),
+                lastName:     $('#last-name').val(),
+                visitorEmail: $('#visitor-email').val(),
+                comment:      $('#comment').val()
             },
             dataType: "json"
         }).done(function() {
