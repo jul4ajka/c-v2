@@ -81,7 +81,7 @@ ul li a:hover {
 
 #contacts p a {
     text-decoration: none;
-    color: grey;
+    color: #444547;
 }
 
 form {
@@ -94,7 +94,7 @@ fieldset {
     padding: 15px;
 }
 
-input[type="submit"] {
+#btn-submit {
     background-color: grey;
     border: none;
     color: white;
