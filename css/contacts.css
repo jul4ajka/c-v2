@@ -79,6 +79,11 @@ ul li a:hover {
     display: inline-block;
 }
 
+#contacts p a {
+    text-decoration: none;
+    color: grey;
+}
+
 form {
     display: inline-block;
     margin-left: 50px;
@@ -89,7 +94,7 @@ fieldset {
     padding: 15px;
 }
 
-button {
+input[type="submit"] {
     background-color: grey;
     border: none;
     color: white;
